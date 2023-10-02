@@ -2,7 +2,7 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="All Test Suite">
     <test
-          name="Parallel Testing" parallel="methods">
+          name="Parallel Testing">
         <classes>
             <class name="StepDefinition.Parallel">
 
